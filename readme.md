@@ -15,7 +15,7 @@ Node.js 18+ required.
 4. Admin: `http://localhost:3000/admin.html`
 
 Default admin (change before live deployment):
-- Username: `admin`
-- Password: `ChangeMe123!`
+- Username: `Admin`
+- Password: `ShamimRm@777`
 
 For production, use HTTPS, a real database, and environment variables ADMIN_USER, ADMIN_PASS and SESSION_SECRET.
